@@ -1,4 +1,7 @@
 Instruction manual
+===
+- After completing all the lower points, run the file main.py (In any editor convenient for you) and go to telegram and start working with our bot
+
 # File main.py
 - Replacing the phrase "Api key" with your keys
 
